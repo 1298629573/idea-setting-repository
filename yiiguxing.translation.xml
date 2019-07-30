@@ -1,0 +1,13 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="idea" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="autoPlayTTS" value="true" />
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
+    <option name="ignoreRegExp" value="" />
+    <option name="showWordForms" value="false" />
+  </component>
+</application>
