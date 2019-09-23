@@ -1,0 +1,7 @@
+<templateSet group="sunlife">
+  <template name="sunlife" value="/**&#10; * @author  sunlife&#10; * @date  ${DATE} ${TIME}&#10; * @version 1.0&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
