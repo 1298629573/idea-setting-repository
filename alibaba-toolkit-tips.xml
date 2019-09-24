@@ -3,5 +3,6 @@
     <option name="globalFirstStartUp" value="false" />
     <entry projectName="zmn-fc-pop" firstStartUp="false" />
     <entry projectName="zmn-pay" firstStartUp="false" />
+    <entry projectName="zmn-plat" firstStartUp="false" />
   </component>
 </application>
