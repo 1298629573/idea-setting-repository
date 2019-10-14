@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="ZmnServices" firstStartUp="false" />
     <entry projectName="first-app-demo" firstStartUp="false" />
     <entry projectName="redis-article" firstStartUp="false" />
     <entry projectName="zmn-fc-pop" firstStartUp="false" />
