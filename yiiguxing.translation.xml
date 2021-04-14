@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manual" />
+      <item value="manual Singleton Names" />
+      <item value="e.g. was ROLE_APPLICATION, now overriding with ROLE_SUPPORT or ROLE_INFRASTRUCTURE" />
       <item value="EVENT LISTENER FACTORY BEAN NAME" />
       <item value="PERSISTENCE ANNOTATION PROCESSOR BEAN NAME" />
       <item value="Exception" />
@@ -9,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
