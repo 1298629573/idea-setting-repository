@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Increment the counter by one." />
       <item value="manual" />
       <item value="manual Singleton Names" />
       <item value="e.g. was ROLE_APPLICATION, now overriding with ROLE_SUPPORT or ROLE_INFRASTRUCTURE" />
@@ -12,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
