@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decrements the count of the latch, releasing all waiting threads if * the count reaches zero." />
+      <item value="Handles cases of updates involving initialization, resizing, creating new Cells, and/or * contention. See above for explanation. This method suffers the usual non-modularity problems * of optimistic retry code, relying on rechecked sets of reads." />
+      <item value="uncontended" />
       <item value="Increment the counter by one." />
       <item value="manual" />
       <item value="manual Singleton Names" />
@@ -13,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
