@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* JVM intrinsics note: It would be possible to use a release-only * form of CAS here, if it were provided." />
       <item value="Decrements the count of the latch, releasing all waiting threads if * the count reaches zero." />
       <item value="Handles cases of updates involving initialization, resizing, creating new Cells, and/or * contention. See above for explanation. This method suffers the usual non-modularity problems * of optimistic retry code, relying on rechecked sets of reads." />
       <item value="uncontended" />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
