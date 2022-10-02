@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="Vcs.UpdateProject" />
+</keymap>
