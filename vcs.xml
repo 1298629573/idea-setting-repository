@@ -150,11 +150,24 @@
           <option name="url" value="http://git.xiujiadian.com" />
           <option name="userName" value="sunlingfu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.xiujiadian.com/code/java/zmn-biz-serv-work-after-delivery.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\code\zmn-new" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
 </application>
